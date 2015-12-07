@@ -43,30 +43,6 @@ Accept the default settings. If it is missing the Android SDK
 Setting up the project can be a pain, which I have experienced myself, even when I tried to set up my own project again.
 Please let me know if you are having trouble!
 
-
-
-## TO SUBMIT:
-
-https://classroom.github.com/assignment-invitations/38bf51d0641ee58c5888c1e112fcc37d
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
- 
- ## Videocapture:
------------
-
- https://youtu.be/kdzj83gVrrE
-
-
 ### This Fork
 
 ```shell
